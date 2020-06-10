@@ -1,0 +1,6 @@
+A:\Users\Geoffrey\DevMath\DevMath\DevMath\bin\Debug\DevMath.dll
+A:\Users\Geoffrey\DevMath\DevMath\DevMath\bin\Debug\DevMath.pdb
+A:\Users\Geoffrey\DevMath\DevMath\DevMath\obj\Debug\DevMath.csprojAssemblyReference.cache
+A:\Users\Geoffrey\DevMath\DevMath\DevMath\obj\Debug\DevMath.csproj.CoreCompileInputs.cache
+A:\Users\Geoffrey\DevMath\DevMath\DevMath\obj\Debug\DevMath.dll
+A:\Users\Geoffrey\DevMath\DevMath\DevMath\obj\Debug\DevMath.pdb
